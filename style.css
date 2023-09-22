@@ -4,14 +4,22 @@
 }
 
 body header{
-    background-color: rgb(55, 244, 244);
+background-color:black;
+color: whitesmoke;
+
 }
 
+
 .hero {
-    background-color: rgba(79, 249, 249, 0.767);
+    background-color: rgb(102, 215, 253);
     margin-top: -20px;
     
 
+}
+.buttons{
+    background-color: black;
+    color: whitesmoke;
+    border-color: black;
 }
 
 #hero1 {
@@ -20,7 +28,7 @@ body header{
 
 #heroimg img {
     border-radius: 40px;
-    filter: drop-shadow(0 0 0.70rem rgb(15, 51, 52));
+   /* filter: drop-shadow(0 0 0.70rem rgb(15, 51, 52)); */
 
 }
 
@@ -31,7 +39,7 @@ body header{
     position: relative;
     background-color: black;
     align-items: center;
-    color: aliceblue;
+    color:white;
     padding: 5px;
 
 }
@@ -40,7 +48,7 @@ body header{
 }
 
 .cont1 {
-    background-color: aquamarine;
+    background-color: rgb(236, 208, 171);
 }
 
 #cont101 {
@@ -126,7 +134,8 @@ body header{
 #contimg6 img{
     height: 100%;
     border-radius: 20px;
-    filter: drop-shadow(11px 1px 1px rgb(240, 237, 237));
+    filter: drop-shadow(12px 3px 3px  rgb(211, 202, 202));
+    
     
 }
 #contbtn6 button{
@@ -141,7 +150,8 @@ body header{
 
 
 .footer{
-    background-color:rgb(79, 249, 249) ;
+    background-color:rgb(0, 0, 0) ;
+    color: white;
     padding: 40px;
 }
 
